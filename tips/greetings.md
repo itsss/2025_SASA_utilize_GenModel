@@ -39,7 +39,7 @@ PhD Student @ [University of Maryland, College Park (UMD, 메릴랜드 대학교
 
 ### 실습은 어떻게 진행되나요?
 
-[프로젝트 Github에 있는 파일들로 실습이 진행됩니다. 실습 당일 파일 전체를 Download ZIP으로 다운받아 주세요](https://github.com/itsss/2025_SASA_utilize_GenModel/)
+[프로젝트 Github에 있는 파일들로 실습이 진행됩니다. 실습 당일 파일 전체를 Download ZIP으로 다운받아 주세요](https://github.com/itsss/2025_SASA_utilize_GenModel)
 
 여러분이 실험을 하면서 겪을 수 있는 시행착오는 제가 최대한 배제해두었습니다. 우선 앞서 언급한 세 알고리즘에 대해서는 실행 가능한 코드를 제가 확보해두었고, 그 코드는 여러분의 Google Colab (무료버전 포함) 으로 에러수정 없이 편리하게 실행하여 결과를 확인할 수 있도록 제가 설계해두었습니다. 또한 모두 사전에 학습된 모델(pre-trained model) 이 있기에 학습과정이 따로 필요 없고, 바로 결과도출을 진행하므로 Generative Model 학습에 걸리는 시간에 대한 부담이나 불안감 또한 없을 것입니다. 
 
