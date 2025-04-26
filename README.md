@@ -26,7 +26,7 @@ TBA
 이 링크를 눌러서 소감문(창의적 체험활동 영역 기재)과 관련된 팁을 확인하실 수 있습니다.
 
 ## 저에 대해 더 궁금하신가요?
-* [Website](http://itsc.kr)
+* [Website](https://itsc.kr)
 * [Facebook](https://www.facebook.com/taewonkang.13/)
 * [LinkedIn](https://www.linkedin.com/in/taewon-kang/)
 
