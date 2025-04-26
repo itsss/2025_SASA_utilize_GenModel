@@ -1,6 +1,6 @@
 [![License CC BY-NC-SA 4.0](https://img.shields.io/badge/license-CC4.0-blue.svg)](https://raw.githubusercontent.com/NVIDIA/FastPhotoStyle/master/LICENSE.md)
 ![Python 3.8](https://img.shields.io/badge/python-3.8-green.svg)
-# 2025 세종과학예술영재학교 How to utilize Generative Models 강의 실습 자료 (25.05.07.-05.09.)
+# 2025 세종과학예술영재학교 인문예술창작주간 ('Who am I?') How to utilize Generative Models, 그 두 번째 이야기 강의 실습 자료 (25.05.07.-05.09.)
 
 Instructor: **Taewon Kang (강태원)** (itschool [At] itsc [Dot] kr)
 
