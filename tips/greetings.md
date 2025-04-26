@@ -2,7 +2,7 @@
 ![Python 3.8](https://img.shields.io/badge/python-3.8-green.svg)
 # 2025 세종과학예술영재학교 인문예술창작주간 ('Who am I?') How to utilize Generative Models, 그 두 번째 이야기 강의 안내사항 (25.05.07.-05.09.)
 
-Instructor: Taewon Kang (강태원) (itschool [At] itsc [Dot] kr)
+Instructor: **Taewon Kang (강태원)** (itschool [At] itsc [Dot] kr)
 
 PhD Student @ [University of Maryland, College Park (UMD, 메릴랜드 대학교)](https://umd.edu/)
 
