@@ -2,7 +2,7 @@
 ![Python 3.8](https://img.shields.io/badge/python-3.8-green.svg)
 # 2025 세종과학예술영재학교 인문예술창작주간 ('Who am I?') How to utilize Generative Models, 그 두 번째 이야기 강의 안내사항 (25.05.07.-05.09.)
 
-Contact: Taewon Kang (강태원) (itschool [At] itsc [Dot] kr)
+Instructor: Taewon Kang (강태원) (itschool [At] itsc [Dot] kr)
 
 PhD Student @ [University of Maryland, College Park (UMD, 메릴랜드 대학교)](https://umd.edu/)
 
@@ -43,13 +43,21 @@ PhD Student @ [University of Maryland, College Park (UMD, 메릴랜드 대학교
 * 작품 제작에 필요한 사진 (원본 이미지) 들을 **여러 장 충분히 확보** 할 것
 * 작품을 최종적으로 동영상으로 가공할 때 **필요한 음악이나 기타 요소들** 준비할 것 (가능하면)
 
-이렇게 진행하는 이유는 Generative Model이 후배분들이 원하는 대로 한번에 동작하지 않을 확률이 높기 때문입니다. 설정값 (파라미터) 그리고 프롬포트를 여러 차례 변경하는 과정을 통해 사진에 알맞은 적절한 값을 찾아야 하고, 또 그렇게 했는데 의도한 결과가 도저히 나오지 않으면 다른 아이디어를 시도하거나 조금 변형해야 할 가능성이 있습니다. **그렇기에 작품 아이디어와 아이디어에 필요한 사진 확보는 사전에 조금이라도 진행해주시길 강력 권장드립니다!** 
+이렇게 진행하는 이유는 Generative Model이 후배분들이 원하는 대로 한번에 동작하지 않을 확률이 높기 때문입니다. 설정값 (파라미터) 그리고 프롬포트를 여러 차례 변경하는 과정을 통해 사진에 알맞은 적절한 값을 찾아야 하고, 또 그렇게 했는데 의도한 결과가 도저히 나오지 않으면 다른 아이디어를 시도하거나 조금 변형해야 할 가능성이 있습니다. **그렇기에 작품 아이디어와 아이디어에 필요한 사진 확보는 사전에 조금이라도 진행해주시길 강력 권장드립니다! 먼 미국에서 날아가서 여러분을 도와드리는 만큼 좋은 작품들 많이 만들고 가셨으면 좋겠습니다!** 
 
 ### 전시는 어떻게 진행되나요?
 2일차 종료 이후 3일차 전시에서는 여러분 동영상 작품을 수합하여 SASA에서 제공하는 노트북에 넣고, SASA 로비에서 상영하는 형태로 전시를 진행할 계획입니다. 그리고, 여러분의 프로젝트를 아카이빙하여 객관적인 자료로 남길 계획입니다. 그래서 2일차 오후에는 제가 보여드린 것처럼 여러분 개개인 또는 팀의 동영상이 나와야 합니다. 그렇기에, **Adobe Premiere Pro 등 작업하기에 편하신 동영상 제작툴을 반드시 컴퓨터에 설치해두시고, 소프트웨어 사용법을 익혀오시면 큰 도움이 될 것 같습니다!**
 
 ### 아직도 감이 잡히지 않아요.
 추가로 더 궁금하신 사항이 있으시다면 제 이메일 또는 인문예술주간 전용 오픈채팅방으로 연락주세요.
+
+## 저에 대해 더 궁금하신가요?
+* 미국 워싱턴 D.C. 그리고 UMD 인근에서 거주하고 있습니다.
+* 현재 CS 박사과정 1년차고, Computer Vision 그리고 Artificial Intelligence 분야 연구를 하고 있습니다.
+* 2025 여름학기에 Adobe Research에서 research intern으로 근무할 예정입니다!
+* [Website](http://itsc.kr)
+* [Facebook](https://www.facebook.com/taewonkang.13/)
+* [LinkedIn](https://www.linkedin.com/in/taewon-kang/)
 
 ## LICENSE
 Awesome Tips를 포함한 본 실습자료 일체 무단전재와 복사, 배포, 상업적인 용도의 이용을 금지합니다.
