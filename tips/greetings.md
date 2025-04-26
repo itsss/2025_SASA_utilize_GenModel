@@ -19,6 +19,8 @@ PhD Student @ [University of Maryland, College Park (UMD, 메릴랜드 대학교
 * [2018 인문예술주간: GAN 진경산수화 프로젝트 페이지](http://itsc.kr/2018/10/27/2018-implementation-of-gan-jinkyeongsansu/)
 * [2024 인문예술주간: How to utilize Generative Models 프로젝트 아카이빙](https://youtu.be/WeLmDt36v3M)
 
+[![How to utilize Generative Models](https://img.youtube.com/vi/WeLmDt36v3M/0.jpg)](https://www.youtube.com/watch?v=WeLmDt36v3M) 
+
 여러 생성모델들을 테스트해 본 결과, 본교 GPGPU 서버를 포함한 현실적인 GPU 리소스 문제 그리고 실행 가능한 코드 등 여러 가지 요소를 고려하여 강의에서는 크게 Generative Model 중 Image-to-Image, Image-to-Video, 그리고 Text-to-Video task를 수행하는 Diffusion Model을 다루고자 합니다. 세 모델의 역할은 다음과 같습니다.
 
 * Image-to-Image Diffusion: 원본 이미지와 문장(프롬포트)이 주어졌을 때, 원본 이미지를 문장에 맞추어 변형한 새로운 이미지를 생성함
