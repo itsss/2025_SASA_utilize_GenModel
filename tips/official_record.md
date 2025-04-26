@@ -2,9 +2,11 @@
 ![Python 3.8](https://img.shields.io/badge/python-3.8-green.svg)
 # 2025 세종과학예술영재학교 How to utilize Generative Models 강의 안내사항 (25.05.07.-05.09.)
 
-Contact: Taewon Kang (강태원) (itschool [At] itsc [Dot] kr)
+Instructor: **Taewon Kang (강태원)** (itschool [At] itsc [Dot] kr)
 
-PhD Student @ University of Maryland (UMD, 메릴랜드 대학교), College Park (세종과학예술영재학교 3기 졸업생)
+PhD Student @ [University of Maryland, College Park (UMD, 메릴랜드 대학교)](https://umd.edu/)
+
+[Department of Computer Science](https://cs.umd.edu) (세종과학예술영재학교 3기 졸업생)
 
 ## 소감문(생활기록부) 작성 관련
 * 다시한번 수고 많으셨습니다!
