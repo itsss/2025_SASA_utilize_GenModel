@@ -4,7 +4,9 @@
 
 Instructor: **Taewon Kang (강태원)** (itschool [At] itsc [Dot] kr)
 
-PhD Student @ University of Maryland (UMD, 메릴랜드 대학교), College Park (세종과학예술영재학교 3기 졸업생)
+PhD Student @ [University of Maryland, College Park (UMD, 메릴랜드 대학교)](https://umd.edu/)
+
+[Department of Computer Science](https://cs.umd.edu) (세종과학예술영재학교 3기 졸업생)
 
 ## 결과물 온라인 아카이빙
 TBA
