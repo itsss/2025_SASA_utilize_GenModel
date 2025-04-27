@@ -15,6 +15,8 @@ TBA
 
 **Download ZIP 버튼을 눌러 실습자료를 다운받고, ipynb 파일을 Google Colab에 추가해주세요.**
 
+<img src="tips/img/github_download.png">
+
 실습에 필요한 이미지들 또한 imgs 폴더 내에서 접근하실 수 있으며, 이 이미지들은 다운받아서 Google Colab 실습환경에 업로드 하셔야 합니다.
 
 ## Awesome Tips
